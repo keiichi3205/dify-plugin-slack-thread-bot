@@ -1,7 +1,7 @@
 version: 0.0.5
 type: plugin
 author: solaoi
-name: slack-thread-bot
+name: slack-thread-bot-v2
 label:
   en_US: Slack Thread Bot
   ja_JP: Slack Thread Bot
